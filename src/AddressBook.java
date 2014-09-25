@@ -18,7 +18,9 @@ public class AddressBook {
 		}
 		return null;
 	}
-	
+	public void stuff(){
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BuddyInfo buddy = new BuddyInfo("Jim", "123 Maple Street","613-123-1234");
